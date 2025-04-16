@@ -2,4 +2,4 @@ cryptography
 PyQt5
 nuitka
 pickle
-darkside4
+qdarkside
